@@ -1,6 +1,27 @@
 # multi_date_picker_textfeild
 
 A new Flutter project.
+ 
+# Screenshot 1
+<img src="https://github.com/Mirzaazmath/multi_date_picker_flutter/blob/main/assets/Screenshot1.png" height="400">
+
+
+# Screenshot 2
+<img src="https://github.com/Mirzaazmath/multi_date_picker_flutter/blob/main/assets/Screenshot2.png" height="400">
+
+
+# Screenshot 3
+<img src="https://github.com/Mirzaazmath/multi_date_picker_flutter/blob/main/assets/Screenshot3.png" height="400">
+
+
+# Screenshot 4
+<img src="https://github.com/Mirzaazmath/multi_date_picker_flutter/blob/main/assets/Screenshot4.png" height="400">
+
+
+# Result
+<img src="https://github.com/Mirzaazmath/multi_date_picker_flutter/blob/main/assets/result.gif" height="400">
+
+
 
 ## Getting Started
 
